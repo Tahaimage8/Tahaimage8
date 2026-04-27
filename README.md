@@ -23,8 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate web developer focused on building clean, responsive, and user-friendly web applications.  
-I enjoy working with **React, Next.js, Tailwind CSS, DaisyUI, Node.js, MongoDB** and modern web technologies.
+I am a passionate Full Stack Developer focused on building modern, scalable, and user-friendly web applications using React, Next.js, Node.js, and MongoDB.
 
 ---
 
