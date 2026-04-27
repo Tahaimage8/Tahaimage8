@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ibtesam Taha</h1>
-<h3 align="center">Full Stack Developer | React & Next.js Enthusiast</h3>
+<h3 align="center">Full Stack Developer | React | Next.js | Node.js | MongoDB | Building modern web applications</h3>
 
 <p align="center">
   📍 Bangladesh &nbsp; | &nbsp;
