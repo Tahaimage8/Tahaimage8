@@ -7,7 +7,7 @@
 
 <p align="center">
   📍 Bangladesh &nbsp; | &nbsp;
-  ✉️ your-email@example.com
+  ✉️ tahaimage8@gmail.com
 </p>
 
 <p align="center">
