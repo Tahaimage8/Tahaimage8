@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:244D3F,100:0F2027&height=220&section=header&text=Ibtesam%20Taha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Frontend%20Engineer&descSize=16&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:244D3F,100:0F2027&height=220&section=header&text=Ibtesam%20Taha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20MongoDB&descSize=16&descAlignY=58" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ibtesam Taha</h1>
-<h3 align="center">Full Stack Developer | React | Next.js | Node.js | MongoDB | Building modern web applications</h3>
+
+<h3 align="center">
+  Full Stack Developer | React | Next.js | Node.js | Express.js | MongoDB
+</h3>
 
 <p align="center">
   📍 Bangladesh &nbsp; | &nbsp;
@@ -23,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate Full Stack Developer focused on building modern, scalable, and user-friendly web applications using React, Next.js, Node.js, and MongoDB.
+I am a passionate Full Stack Developer focused on building modern, scalable, and user-friendly web applications using **React, Next.js, Node.js, Express.js, and MongoDB**.
 
 ---
 
@@ -32,7 +35,7 @@ I am a passionate Full Stack Developer focused on building modern, scalable, and
 - 🌱 Exploring **Next.js App Router**
 - 💻 Building real-world projects with **React & Next.js**
 - 🎨 Improving UI design using **Tailwind CSS & DaisyUI**
-- ⚙️ Practicing API integration and backend fundamentals
+- ⚙️ Practicing **API integration** and backend fundamentals
 - 📚 Learning clean code, reusable components, and performance optimization
 
 ---
@@ -40,7 +43,7 @@ I am a passionate Full Stack Developer focused on building modern, scalable, and
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,vite,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vite,vscode" />
 </p>
 
 ---
@@ -48,6 +51,7 @@ I am a passionate Full Stack Developer focused on building modern, scalable, and
 ## 📌 Featured Projects
 
 ### 🔗 KeenKeeper
+
 A relationship tracking web app for managing friends, interaction history, and connection status.
 
 **Live:** https://assienment-7-77.vercel.app  
@@ -55,6 +59,7 @@ A relationship tracking web app for managing friends, interaction history, and c
 **Tech Stack:** Next.js, React, Tailwind CSS, DaisyUI, Context API
 
 ### 📚 BookVibe
+
 A book discovery and reading tracker app where users can manage read books and wishlist.
 
 **Live:** https://bookvibe1111.netlify.app  
@@ -62,6 +67,7 @@ A book discovery and reading tracker app where users can manage read books and w
 **Tech Stack:** React, Vite, Tailwind CSS, DaisyUI, React Router
 
 ### 🧰 DigiTools
+
 A digital tools listing app with interactive product display and cart functionality.
 
 **Live:** https://digitoolsll.netlify.app  
