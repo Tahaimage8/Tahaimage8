@@ -83,7 +83,7 @@ A digital tools listing app with interactive product display and cart functional
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=tahaimage8&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahaimage8&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
