@@ -79,15 +79,15 @@ A digital tools listing app with interactive product display and cart functional
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahaimage8&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahaimage8&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahaimage8&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=tahaimage8&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaimage8&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tahaimage8&theme=tokyonight" />
 </p>
 
 <p align="center">
