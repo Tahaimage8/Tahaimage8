@@ -101,7 +101,7 @@ An AI-powered Art Generation platform featuring a clean UI for creative prompt p
 **Tech Stack:** React, Next.js, AI Integration, Framer Motion
 
 <p align="center">
-  <img src="./images/artiva.png" alt="Artiva AI Screenshot" width="600" />
+  <img src="[./images/artiva.png](https://i.ibb.co.com/pjP8ysBM/artiva.png)" alt="Artiva AI Screenshot" width="600" />
 </p>
 
 ---
