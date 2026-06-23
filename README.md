@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:244D3F,100:0F2027&height=220&section=header&text=Ibtesam%20Taha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20MongoDB&descSize=16&descAlignY=58" />
 </p>
 
+<!-- এখানে আপনার কাস্টম ইমেজ যোগ করুন (URL পরিবর্তন করুন) -->
+<p align="center">
+  <img src="https://your-image-url-here.com/banner.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ibtesam Taha</h1>
 
 <h3 align="center">
@@ -50,29 +55,59 @@ I am a passionate Full Stack Developer focused on building modern, scalable, and
 
 ## 📌 Featured Projects
 
-### 🔗 KeenKeeper
+### 🔗 RaktaNex
 
-A relationship tracking web app for managing friends, interaction history, and connection status.
+A full-stack blood donation platform connecting donors, volunteers, and administrators to streamline blood request fulfillment and fundraising.
 
-**Live:** https://assienment-7-77.vercel.app  
-**Repository:** https://github.com/tahaimage8/assienment-7  
-**Tech Stack:** Next.js, React, Tailwind CSS, DaisyUI, Context API
+**Live:** https://raktanex-client.vercel.app/  
+**Repository:** https://github.com/Tahaimage8/raktanex-client  
+**Tech Stack:** Full Stack, Stripe, MongoDB, Next.js, Better-Auth
 
-### 📚 BookVibe
+<p align="center">
+  <img src="./images/raktanex.png" alt="RaktaNex Screenshot" width="600" />
+</p>
 
-A book discovery and reading tracker app where users can manage read books and wishlist.
+---
 
-**Live:** https://bookvibe1111.netlify.app  
-**Repository:** https://github.com/tahaimage8/book-vibe  
-**Tech Stack:** React, Vite, Tailwind CSS, DaisyUI, React Router
+### 🏟️ SportNest
 
-### 🧰 DigiTools
+A full-stack sports facility booking platform where users can explore venues, filter facilities, book available time slots, manage bookings, and facility owners can add or manage their own venues.
 
-A digital tools listing app with interactive product display and cart functionality.
+**Live:** https://sportnest-client-psi.vercel.app/  
+**Repository:** https://github.com/Tahaimage8/sportnest-client  
+**Tech Stack:** Full Stack, Next.js, MongoDB, Booking System
 
-**Live:** https://digitoolsll.netlify.app  
-**Repository:** https://github.com/tahaimage8/assienment-6  
-**Tech Stack:** React, Tailwind CSS, DaisyUI, JavaScript
+<p align="center">
+  <img src="./images/sportnest.png" alt="SportNest Screenshot" width="600" />
+</p>
+
+---
+
+### 🎓 SkillSphere
+
+A comprehensive Online Learning Management System with course categorization, enrollment tracking, and a modern student dashboard.
+
+**Live:** https://tskillsphere-ibtesam.vercel.app/  
+**Repository:** https://github.com/tahaimage8/skill-sphere  
+**Tech Stack:** React, Firebase, Tailwind, DaisyUI
+
+<p align="center">
+  <img src="./images/skillsphere.png" alt="SkillSphere Screenshot" width="600" />
+</p>
+
+---
+
+### 🎨 Artiva AI
+
+An AI-powered Art Generation platform featuring a clean UI for creative prompt processing and high-end gallery display.
+
+**Live:** https://artiva-ai.vercel.app/  
+**Repository:** https://github.com/tahaimage8/artiva-art-gallery  
+**Tech Stack:** React, Next.js, AI Integration, Framer Motion
+
+<p align="center">
+  <img src="./images/artiva.png" alt="Artiva AI Screenshot" width="600" />
+</p>
 
 ---
 
