@@ -26,17 +26,13 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate Full Stack Developer focused on building modern, scalable, and user-friendly web applications using **React, Next.js, Node.js, Express.js, and MongoDB**.
+I'm a passionate **Full Stack Developer** who loves building modern, scalable, and user-friendly web applications. I enjoy crafting clean code and seamless user experiences using the **MERN stack** and modern frontend frameworks.
 
----
-
-## 🚀 Current Activities
-
-- 🌱 Exploring **Next.js App Router**
-- 💻 Building real-world projects with **React & Next.js**
-- 🎨 Improving UI design using **Tailwind CSS & DaisyUI**
-- ⚙️ Practicing **API integration** and backend fundamentals
-- 📚 Learning clean code, reusable components, and performance optimization
+- 🌱 I'm currently exploring **Next.js App Router**  
+- 💻 Building real-world projects with **React, Next.js, Node.js & MongoDB**  
+- 🎨 Designing interfaces with **Tailwind CSS & DaisyUI**  
+- ⚙️ Practicing **API integration**, authentication, and backend architecture  
+- 📚 Always learning clean code, performance optimization, and scalable system design
 
 ---
 
@@ -59,7 +55,7 @@ A full-stack blood donation platform connecting donors, volunteers, and administ
 **Tech Stack:** Full Stack, Stripe, MongoDB, Next.js, Better-Auth
 
 <p align="center">
-  <img src="./images/raktanex.png" alt="RaktaNex Screenshot" width="600" />
+  <img src="https://i.ibb.co/HTbrT7Rv/raktanex.png" alt="RaktaNex Screenshot" width="600" />
 </p>
 
 ---
@@ -73,7 +69,7 @@ A full-stack sports facility booking platform where users can explore venues, fi
 **Tech Stack:** Full Stack, Next.js, MongoDB, Booking System
 
 <p align="center">
-  <img src="./images/sportnest.png" alt="SportNest Screenshot" width="600" />
+  <img src="https://i.ibb.co/vxzpLD8y/sportnest.png" alt="SportNest Screenshot" width="600" />
 </p>
 
 ---
@@ -87,7 +83,7 @@ A comprehensive Online Learning Management System with course categorization, en
 **Tech Stack:** React, Firebase, Tailwind, DaisyUI
 
 <p align="center">
-  <img src="./images/skillsphere.png" alt="SkillSphere Screenshot" width="600" />
+  <img src="https://i.ibb.co/6R9sLFcN/skillsphere.png" alt="SkillSphere Screenshot" width="600" />
 </p>
 
 ---
@@ -101,7 +97,7 @@ An AI-powered Art Generation platform featuring a clean UI for creative prompt p
 **Tech Stack:** React, Next.js, AI Integration, Framer Motion
 
 <p align="center">
-  <img src="[./images/artiva.png](https://i.ibb.co.com/pjP8ysBM/artiva.png)" alt="Artiva AI Screenshot" width="600" />
+  <img src="https://i.ibb.co/pjP8ysBM/artiva.png" alt="Artiva AI Screenshot" width="600" />
 </p>
 
 ---
