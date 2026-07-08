@@ -48,8 +48,11 @@ I'm a passionate **Full Stack Developer** who loves building modern, scalable, a
 </p>
 
 **Frontend:** React.js, Next.js, JavaScript, TypeScript (learning), Tailwind CSS, DaisyUI, HeroUI, Framer Motion
+
 **Backend:** Node.js, Express.js, REST APIs, Better-Auth
+
 **Database & Payments:** MongoDB, Firebase, Stripe
+
 **Tools:** Git, GitHub, Vercel, Netlify
 
 ---
