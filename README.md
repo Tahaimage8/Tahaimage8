@@ -64,8 +64,11 @@ I'm a passionate **Full Stack Developer** who loves building modern, scalable, a
 A full-stack blood donation platform connecting donors, volunteers, and administrators to streamline blood request fulfillment and fundraising.
 
 **Live:** https://raktanex-client.vercel.app/
+
 **Repository:** https://github.com/Tahaimage8/raktanex-client
+
 **Tech Stack:** Next.js, React, MongoDB, Express.js, Better-Auth, Stripe, Framer Motion
+
 
 <p align="center">
   <img src="https://i.ibb.co/HTbrT7Rv/raktanex.png" alt="RaktaNex Screenshot" width="600" />
@@ -78,8 +81,11 @@ A full-stack blood donation platform connecting donors, volunteers, and administ
 A full-stack sports facility booking platform where users can explore venues, filter facilities, book available time slots, manage bookings, and facility owners can add or manage their own venues.
 
 **Live:** https://sportnest-client-psi.vercel.app/
+
 **Repository:** https://github.com/Tahaimage8/sportnest-client
+
 **Tech Stack:** Next.js, React, Tailwind CSS, HeroUI, MongoDB, Express.js, Better-Auth, Framer Motion
+
 
 <p align="center">
   <img src="https://i.ibb.co/vxzpLD8y/sportnest.png" alt="SportNest Screenshot" width="600" />
@@ -92,8 +98,11 @@ A full-stack sports facility booking platform where users can explore venues, fi
 A comprehensive Online Learning Management System with course categorization, enrollment tracking, and a modern student dashboard.
 
 **Live:** https://skillsphere-ibtesam.vercel.app/
+
 **Repository:** https://github.com/tahaimage8/skill-sphere
+
 **Tech Stack:** React, Next.js, Firebase, MongoDB, Tailwind CSS, DaisyUI, Better-Auth
+
 
 <p align="center">
   <img src="https://i.ibb.co/6R9sLFcN/skillsphere.png" alt="SkillSphere Screenshot" width="600" />
@@ -106,8 +115,11 @@ A comprehensive Online Learning Management System with course categorization, en
 An AI-powered image browsing and art generation platform featuring a clean UI for creative prompt processing and high-end gallery display.
 
 **Live:** https://artiva-ai.vercel.app/
+
 **Repository:** https://github.com/tahaimage8/artiva-art-gallery
+
 **Tech Stack:** React, Next.js, Tailwind CSS, Framer Motion, REST API
+
 
 <p align="center">
   <img src="https://i.ibb.co/pjP8ysBM/artiva.png" alt="Artiva AI Screenshot" width="600" />
