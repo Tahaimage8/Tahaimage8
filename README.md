@@ -134,10 +134,6 @@ An AI-powered image browsing and art generation platform featuring a clean UI fo
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tahaimage8&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tahaimage8&theme=tokyonight" />
 </p>
 
