@@ -9,8 +9,9 @@
 </h3>
 
 <p align="center">
-  📍 Bangladesh &nbsp; | &nbsp;
-  ✉️ tahaimage8@gmail.com
+  📍 Narayanganj, Dhaka, Bangladesh &nbsp; | &nbsp;
+  ✉️ tahaimage8@gmail.com &nbsp; | &nbsp;
+  📞 +880-XXXXXXXXXX
 </p>
 
 <p align="center">
@@ -26,21 +27,30 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** who loves building modern, scalable, and user-friendly web applications. I enjoy crafting clean code and seamless user experiences using the **MERN stack** and modern frontend frameworks.
+I'm a passionate **Full Stack Developer** who loves building modern, scalable, and user-friendly web applications. I enjoy crafting clean code and seamless user experiences using the **MERN stack** and modern frontend frameworks. Currently a student pursuing a Diploma in Computer Science Technology, learning and building real-world projects on my own.
 
-- 🌱 I'm currently exploring **Next.js App Router**  
-- 💻 Building real-world projects with **React, Next.js, Node.js & MongoDB**  
-- 🎨 Designing interfaces with **Tailwind CSS & DaisyUI**  
-- ⚙️ Practicing **API integration**, authentication, and backend architecture  
-- 📚 Always learning clean code, performance optimization, and scalable system design
+---
+
+## 🔭 Currently Working On
+
+- 🌱 Learning **TypeScript** to write cleaner, more scalable, type-safe code
+- 🚧 Building **Rolebix** — a role/permission management tool (work in progress)
+- ⚙️ Practicing advanced backend architecture, authentication, and database design
+- 📚 Improving clean code structure, performance optimization, and UI/UX quality
+- 💡 Exploring modern UI libraries like HeroUI for polished interfaces
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vite,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vite,vscode" />
 </p>
+
+**Frontend:** React.js, Next.js, JavaScript, TypeScript (learning), Tailwind CSS, DaisyUI, HeroUI, Framer Motion
+**Backend:** Node.js, Express.js, REST APIs, Better-Auth
+**Database & Payments:** MongoDB, Firebase, Stripe
+**Tools:** Git, GitHub, Vercel, Netlify
 
 ---
 
@@ -50,9 +60,9 @@ I'm a passionate **Full Stack Developer** who loves building modern, scalable, a
 
 A full-stack blood donation platform connecting donors, volunteers, and administrators to streamline blood request fulfillment and fundraising.
 
-**Live:** https://raktanex-client.vercel.app/  
-**Repository:** https://github.com/Tahaimage8/raktanex-client  
-**Tech Stack:** Full Stack, Stripe, MongoDB, Next.js, Better-Auth
+**Live:** https://raktanex-client.vercel.app/
+**Repository:** https://github.com/Tahaimage8/raktanex-client
+**Tech Stack:** Next.js, React, MongoDB, Express.js, Better-Auth, Stripe, Framer Motion
 
 <p align="center">
   <img src="https://i.ibb.co/HTbrT7Rv/raktanex.png" alt="RaktaNex Screenshot" width="600" />
@@ -64,9 +74,9 @@ A full-stack blood donation platform connecting donors, volunteers, and administ
 
 A full-stack sports facility booking platform where users can explore venues, filter facilities, book available time slots, manage bookings, and facility owners can add or manage their own venues.
 
-**Live:** https://sportnest-client-psi.vercel.app/  
-**Repository:** https://github.com/Tahaimage8/sportnest-client  
-**Tech Stack:** Full Stack, Next.js, MongoDB, Booking System
+**Live:** https://sportnest-client-psi.vercel.app/
+**Repository:** https://github.com/Tahaimage8/sportnest-client
+**Tech Stack:** Next.js, React, Tailwind CSS, HeroUI, MongoDB, Express.js, Better-Auth, Framer Motion
 
 <p align="center">
   <img src="https://i.ibb.co/vxzpLD8y/sportnest.png" alt="SportNest Screenshot" width="600" />
@@ -78,9 +88,9 @@ A full-stack sports facility booking platform where users can explore venues, fi
 
 A comprehensive Online Learning Management System with course categorization, enrollment tracking, and a modern student dashboard.
 
-**Live:** https://tskillsphere-ibtesam.vercel.app/  
-**Repository:** https://github.com/tahaimage8/skill-sphere  
-**Tech Stack:** React, Firebase, Tailwind, DaisyUI
+**Live:** https://skillsphere-ibtesam.vercel.app/
+**Repository:** https://github.com/tahaimage8/skill-sphere
+**Tech Stack:** React, Next.js, Firebase, MongoDB, Tailwind CSS, DaisyUI, Better-Auth
 
 <p align="center">
   <img src="https://i.ibb.co/6R9sLFcN/skillsphere.png" alt="SkillSphere Screenshot" width="600" />
@@ -90,11 +100,11 @@ A comprehensive Online Learning Management System with course categorization, en
 
 ### 🎨 Artiva AI
 
-An AI-powered Art Generation platform featuring a clean UI for creative prompt processing and high-end gallery display.
+An AI-powered image browsing and art generation platform featuring a clean UI for creative prompt processing and high-end gallery display.
 
-**Live:** https://artiva-ai.vercel.app/  
-**Repository:** https://github.com/tahaimage8/artiva-art-gallery  
-**Tech Stack:** React, Next.js, AI Integration, Framer Motion
+**Live:** https://artiva-ai.vercel.app/
+**Repository:** https://github.com/tahaimage8/artiva-art-gallery
+**Tech Stack:** React, Next.js, Tailwind CSS, Framer Motion, REST API
 
 <p align="center">
   <img src="https://i.ibb.co/pjP8ysBM/artiva.png" alt="Artiva AI Screenshot" width="600" />
