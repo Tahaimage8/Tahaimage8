@@ -27,14 +27,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** who loves building modern, scalable, and user-friendly web applications. I enjoy crafting clean code and seamless user experiences using the **MERN stack** and modern frontend frameworks. Currently a student pursuing a Diploma in Computer Science Technology, learning and building real-world projects on my own.
+I'm a passionate **Full Stack Developer** who loves building modern, scalable, and user-friendly web applications. I enjoy crafting clean code and seamless user experiences using the **MERN stack** and modern frontend frameworks. Currently, I’m a student pursuing a Diploma in Computer Science Technology, learning and building real-world projects on my own.
 
 ---
 
 ## 🔭 Currently Working On
 
-- 🌱 Learning **TypeScript** to write cleaner, more scalable, type-safe code
-- 🚧 Building **Rolebix** — a role/permission management tool (work in progress)
+- 🌱 Learning **TypeScript** to write cleaner, more scalable, and type-safe code
+- 🚀 Improving **Rolebix** — a full-stack role-based job and career platform
+- 🛠️ Enhancing **DineSport** with better UI, performance, and overall user experience
 - ⚙️ Practicing advanced backend architecture, authentication, and database design
 - 📚 Improving clean code structure, performance optimization, and UI/UX quality
 - 💡 Exploring modern UI libraries like HeroUI for polished interfaces
@@ -59,6 +60,39 @@ I'm a passionate **Full Stack Developer** who loves building modern, scalable, a
 
 ## 📌 Featured Projects
 
+
+### 🍽️ DineSport
+
+A modern and responsive full-stack web application built with a strong focus on clean design, smooth user experience, scalable architecture, and practical real-world functionality.
+
+**Live:** Add your DineSport live link here
+
+**Repository:** Add your DineSport repository link here
+
+**Tech Stack:** TypeScript, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB
+
+<p align="center">
+  <img src="https://i.ibb.co.com/XfL9v2Vj/dinesport.png" alt="DineSport Screenshot" width="600" />
+</p>
+
+---
+
+### 💼 Rolebix
+
+A modern full-stack role-based platform built for job seekers, recruiters, and administrators. It focuses on streamlined job management, secure authentication, user role handling, and a polished experience for career-related workflows.
+
+**Live:** https://rolebix-client-side.vercel.app/
+
+**Repository:** https://github.com/Tahaimage8/Rolebix-client-side
+
+**Tech Stack:** Next.js, React, Tailwind CSS, HeroUI, MongoDB, Express.js, Better-Auth, Stripe, Framer Motion
+
+<p align="center">
+  <img src="https://i.ibb.co.com/TqdX9NMT/rolebix.png" alt="Rolebix Screenshot" width="600" />
+</p>
+
+---
+
 ### 🔗 RaktaNex
 
 A full-stack blood donation platform connecting donors, volunteers, and administrators to streamline blood request fulfillment and fundraising.
@@ -68,7 +102,6 @@ A full-stack blood donation platform connecting donors, volunteers, and administ
 **Repository:** https://github.com/Tahaimage8/raktanex-client
 
 **Tech Stack:** Next.js, React, MongoDB, Express.js, Better-Auth, Stripe, Framer Motion
-
 
 <p align="center">
   <img src="https://i.ibb.co/HTbrT7Rv/raktanex.png" alt="RaktaNex Screenshot" width="600" />
@@ -86,47 +119,11 @@ A full-stack sports facility booking platform where users can explore venues, fi
 
 **Tech Stack:** Next.js, React, Tailwind CSS, HeroUI, MongoDB, Express.js, Better-Auth, Framer Motion
 
-
 <p align="center">
   <img src="https://i.ibb.co/vxzpLD8y/sportnest.png" alt="SportNest Screenshot" width="600" />
 </p>
 
 ---
-
-### 🎓 SkillSphere
-
-A comprehensive Online Learning Management System with course categorization, enrollment tracking, and a modern student dashboard.
-
-**Live:** https://skillsphere-ibtesam.vercel.app/
-
-**Repository:** https://github.com/tahaimage8/skill-sphere
-
-**Tech Stack:** React, Next.js, Firebase, MongoDB, Tailwind CSS, DaisyUI, Better-Auth
-
-
-<p align="center">
-  <img src="https://i.ibb.co/6R9sLFcN/skillsphere.png" alt="SkillSphere Screenshot" width="600" />
-</p>
-
----
-
-### 🎨 Artiva AI
-
-An AI-powered image browsing and art generation platform featuring a clean UI for creative prompt processing and high-end gallery display.
-
-**Live:** https://artiva-ai.vercel.app/
-
-**Repository:** https://github.com/tahaimage8/artiva-art-gallery
-
-**Tech Stack:** React, Next.js, Tailwind CSS, Framer Motion, REST API
-
-
-<p align="center">
-  <img src="https://i.ibb.co/pjP8ysBM/artiva.png" alt="Artiva AI Screenshot" width="600" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
