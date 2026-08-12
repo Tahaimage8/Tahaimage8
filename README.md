@@ -1,14 +1,14 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:244D3F,100:0F2027&height=220&section=header&text=Ibtesam%20Taha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%2FML%20Aspirant&descSize=16&descAlignY=58"
-    alt="Ibtesam Taha Header"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:244D3F,100:0F2027&height=220&section=header&text=Ibtasam%20Taha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20TypeScript%20%7C%20AI%2FML%20Aspirant&descSize=16&descAlignY=58"
+    alt="Ibtasam Taha Header"
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ibtesam Taha</h1>
+<h1 align="center">Hi 👋, I'm Ibtasam Taha</h1>
 
 <h3 align="center">
-  Software Developer | Full Stack Engineer | AI/ML Aspirant
+  Full Stack Developer | TypeScript | AI/ML Aspirant
 </h3>
 
 <p align="center">
@@ -23,12 +23,14 @@
       alt="GitHub"
     />
   </a>
+
   <a href="https://www.linkedin.com/in/ibtesam-taha/">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
+
   <a href="https://portfolio-ibtesam-taha.vercel.app/">
     <img
       src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"
@@ -41,51 +43,48 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Developer and Full Stack Engineer** focused on building modern, secure, scalable, and user-friendly software applications.
+I'm a **Full Stack Developer** focused on building modern, secure, scalable, and user-friendly web applications.
 
-I develop responsive frontend interfaces, backend APIs, authentication systems, role-based dashboards, database-driven applications, and deployable full-stack products using modern software technologies.
+I work across the complete development process — from responsive frontend interfaces to backend APIs, authentication systems, databases, role-based dashboards, integrations, and deployment.
 
-My current development stack includes **Next.js, React, TypeScript, Node.js, Express.js, NestJS, Python, FastAPI, MongoDB, PostgreSQL, Prisma ORM, Docker, Nginx, and AWS**.
+My current technology stack includes **Next.js, React, TypeScript, Node.js, Express.js, NestJS, Python, FastAPI, MongoDB, PostgreSQL, Prisma ORM, Docker, Nginx, and AWS**.
 
-I’m currently pursuing a Diploma in Computer Science Technology while strengthening my computer science and software engineering foundation through real-world development projects.
+I'm currently pursuing a **Diploma in Computer Science Technology** while continuously strengthening my software development skills through practical projects and structured learning.
 
-My long-term goal is to combine strong software engineering knowledge with **Artificial Intelligence and Machine Learning** to build intelligent, data-driven, and real-world software products.
+My long-term goal is to combine strong software engineering knowledge with **Artificial Intelligence and Machine Learning** to build intelligent, scalable, and data-driven products.
 
 ---
 
 ## 🎯 Current Focus
 
-- 💻 Building production-style full-stack software using Next.js, TypeScript, Node.js, Express.js, and MongoDB
-- ⚙️ Developing secure REST APIs, authentication systems, protected routes, and role-based access control
-- 🗄️ Working with MongoDB, PostgreSQL, Prisma ORM, database design, and application data management
-- 🐍 Developing backend services using Python and FastAPI
-- 🧩 Strengthening scalable architecture, reusable components, clean code, debugging, and error handling
-- ☁️ Building deployment and production knowledge using Docker, Nginx, AWS, Vercel, and Netlify
-- 🚀 Building and improving DineSpot, Rolebix, RaktaNex, and SportNest
-- 🎨 Improving application performance, accessibility, responsiveness, and overall user experience
+* 💻 Building modern full-stack applications with **Next.js, TypeScript, Node.js, Express.js, and databases**
+* ⚙️ Developing **REST APIs, authentication systems, protected routes, and role-based access control**
+* 🗄️ Working with **MongoDB, PostgreSQL, Prisma ORM, database design, and application data management**
+* 🐍 Building and improving backend services using **Python and FastAPI**
+* 🧩 Improving **reusable architecture, clean code, validation, debugging, and error handling**
+* ☁️ Strengthening deployment knowledge using **Docker, Nginx, AWS, Vercel, and Netlify**
+* 🚀 Building and improving projects such as **DineSpot, Rolebix, RaktaNex, and SportNest**
+* 🎨 Improving **performance, accessibility, responsiveness, and overall user experience**
 
 ---
 
-## 🧠 Software Engineering Foundation
+## 🧠 Current Engineering Skills
 
-- Programming Fundamentals
-- Problem Solving
-- Object-Oriented Programming
-- Data Structures and Algorithms
-- Database Management Systems
-- RESTful API Development
-- Frontend and Backend Integration
-- Authentication and Authorization
-- Role-Based Access Control
-- API Validation and Error Handling
-- Component-Based Architecture
-- Reusable Code and Components
-- Clean Code and Code Organization
-- Responsive and Accessible UI Development
-- Git-Based Version Control
-- Debugging and Performance Optimization
-- Application Deployment
-- Software Development Life Cycle Fundamentals
+* Full Stack Web Development
+* Frontend & Backend Integration
+* REST API Development
+* Authentication & Authorization
+* Role-Based Access Control
+* Database Integration
+* API Validation & Error Handling
+* Component-Based Architecture
+* Reusable Components
+* Responsive UI Development
+* Git-Based Version Control
+* Clean Code Organization
+* Debugging
+* Application Deployment
+* Performance Optimization
 
 ---
 
@@ -94,7 +93,7 @@ My long-term goal is to combine strong software engineering knowledge with **Art
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,nestjs,python,fastapi,mongodb,postgres,prisma,docker,nginx,aws,git,github,vite,vscode"
-    alt="Ibtesam Taha Technology Stack"
+    alt="Ibtasam Taha Technology Stack"
   />
 </p>
 
@@ -110,11 +109,11 @@ My long-term goal is to combine strong software engineering knowledge with **Art
 
 **MongoDB, PostgreSQL, Prisma ORM, Data Modeling, Database Design, CRUD Operations**
 
-### ☁️ DevOps and Deployment
+### ☁️ DevOps & Deployment
 
-**Docker, Nginx, AWS, Git, GitHub, Vercel, Netlify, Vite, Visual Studio Code**
+**Docker, Nginx, AWS, Git, GitHub, Vercel, Netlify**
 
-### 🔗 Integrations and Services
+### 🔗 Integrations & Services
 
 **Stripe, ImgBB, REST API Integration, Third-Party API Integration, Payment Integration**
 
@@ -122,26 +121,28 @@ My long-term goal is to combine strong software engineering knowledge with **Art
 
 ## 💻 Development Experience
 
-- Developed multiple production-style full-stack applications using Next.js, React, TypeScript, Node.js, Express.js, and MongoDB
-- Built responsive and user-friendly interfaces using Tailwind CSS, HeroUI, DaisyUI, and modern component-based design
-- Implemented dynamic routing, protected routes, search, filtering, pagination, form handling, and API integration
-- Designed RESTful APIs and managed backend logic using Node.js, Express.js, and database services
-- Implemented secure authentication, authorization, and role-based access systems using Better Auth
-- Developed separate dashboards and workflows for users, administrators, recruiters, owners, and other application roles
-- Integrated Stripe payments, image-upload services, database systems, and third-party APIs
-- Practiced reusable component architecture, clean code organization, error handling, and performance optimization
-- Managed source code using Git and GitHub
-- Deployed frontend and backend applications using Vercel and Netlify
+* Built full-stack applications using **Next.js, React, TypeScript, Node.js, Express.js, and MongoDB**
+* Developed responsive and reusable interfaces using modern component-based architecture
+* Implemented dynamic routing, protected routes, search, filtering, pagination, forms, and API integrations
+* Designed RESTful APIs and backend application logic
+* Implemented secure authentication, authorization, and role-based access systems
+* Built separate dashboards and workflows for different application roles
+* Integrated payment systems, image-upload services, databases, and third-party APIs
+* Practiced reusable architecture, clean code organization, validation, debugging, and error handling
+* Managed source code using **Git and GitHub**
+* Deployed frontend and backend applications using modern hosting platforms
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🍽️ DineSpot
+## 🍽️ DineSpot
 
-A TypeScript-based full-stack restaurant platform built with a responsive interface, secure authentication, database integration, and scalable client-server architecture.
+**Full Stack TypeScript Restaurant Platform**
 
-The application supports restaurant discovery, reservation workflows, user reviews, protected routes, and role-based management features.
+DineSpot is a full-stack restaurant discovery and reservation platform built with a modern client-server architecture.
+
+The application includes restaurant discovery, reservation workflows, user reviews, authentication, protected routes, database integration, and role-based management features.
 
 <p>
   <a href="https://github.com/Tahaimage8/DineSpot-client">
@@ -150,12 +151,14 @@ The application supports restaurant discovery, reservation workflows, user revie
       alt="DineSpot Client Repository"
     />
   </a>
+
   <a href="https://github.com/Tahaimage8/DineSpot-server">
     <img
       src="https://img.shields.io/badge/Server_Code-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="DineSpot Server Repository"
     />
   </a>
+
   <a href="https://dine-spot-server.vercel.app/">
     <img
       src="https://img.shields.io/badge/Server_API-000000?style=for-the-badge&logo=vercel&logoColor=white"
@@ -176,11 +179,13 @@ The application supports restaurant discovery, reservation workflows, user revie
 
 ---
 
-### 💼 Rolebix
+## 💼 Rolebix
 
-A role-based career marketplace designed for job seekers, recruiters, and administrators.
+**Role-Based Career Marketplace**
 
-Job seekers can discover opportunities and track applications, recruiters can manage companies, jobs, and candidates, while administrators can moderate job listings and review platform activity.
+Rolebix is a career marketplace designed for job seekers, recruiters, and administrators.
+
+Job seekers can discover opportunities and track applications, recruiters can manage companies, jobs, and candidates, while administrators can moderate listings and platform activity.
 
 <p>
   <a href="https://rolebix-client-side.vercel.app/">
@@ -189,12 +194,14 @@ Job seekers can discover opportunities and track applications, recruiters can ma
       alt="Rolebix Live Website"
     />
   </a>
+
   <a href="https://github.com/Tahaimage8/Rolebix-client-side">
     <img
       src="https://img.shields.io/badge/Client_Code-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="Rolebix Client Repository"
     />
   </a>
+
   <a href="https://github.com/Tahaimage8/Rolebix-server-side">
     <img
       src="https://img.shields.io/badge/Server_Code-181717?style=for-the-badge&logo=github&logoColor=white"
@@ -215,11 +222,13 @@ Job seekers can discover opportunities and track applications, recruiters can ma
 
 ---
 
-### 🩸 RaktaNex
+## 🩸 RaktaNex
 
-A full-stack blood donation platform connecting donors, volunteers, administrators, and people who need blood.
+**Full Stack Blood Donation Platform**
 
-The platform includes donor discovery, blood requests, fundraising, role-based dashboards, protected routes, Stripe payments, and administrative management features.
+RaktaNex connects donors, volunteers, administrators, and people who need blood.
+
+The platform includes donor discovery, blood requests, fundraising, protected routes, role-based dashboards, Stripe payments, and administrative management.
 
 <p>
   <a href="https://raktanex-client.vercel.app/">
@@ -228,12 +237,14 @@ The platform includes donor discovery, blood requests, fundraising, role-based d
       alt="RaktaNex Live Website"
     />
   </a>
+
   <a href="https://github.com/Tahaimage8/raktanex-client">
     <img
       src="https://img.shields.io/badge/Client_Code-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="RaktaNex Client Repository"
     />
   </a>
+
   <a href="https://github.com/Tahaimage8/raktanex-server">
     <img
       src="https://img.shields.io/badge/Server_Code-181717?style=for-the-badge&logo=github&logoColor=white"
@@ -254,11 +265,13 @@ The platform includes donor discovery, blood requests, fundraising, role-based d
 
 ---
 
-### 🏟️ SportNest
+## 🏟️ SportNest
 
-A full-stack sports facility discovery and booking platform.
+**Sports Facility Discovery & Booking Platform**
 
-Users can search and filter facilities, explore available time slots, complete bookings, and manage their reservations. Facility owners can add, update, and manage their venues through protected application features.
+SportNest is a full-stack sports facility discovery and booking application.
+
+Users can search and filter facilities, explore available time slots, complete bookings, and manage reservations. Facility owners can manage their venues using protected application features.
 
 <p>
   <a href="https://sportnest-client-psi.vercel.app/">
@@ -267,12 +280,14 @@ Users can search and filter facilities, explore available time slots, complete b
       alt="SportNest Live Website"
     />
   </a>
+
   <a href="https://github.com/Tahaimage8/sportnest-client">
     <img
       src="https://img.shields.io/badge/Client_Code-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="SportNest Client Repository"
     />
   </a>
+
   <a href="https://github.com/Tahaimage8/sportnest-server">
     <img
       src="https://img.shields.io/badge/Server_Code-181717?style=for-the-badge&logo=github&logoColor=white"
@@ -293,89 +308,119 @@ Users can search and filter facilities, explore available time slots, complete b
 
 ---
 
-## 📚 Computer Science Growth Roadmap
+# 📚 2027 — Software Development Roadmap
 
-Alongside software development, I plan to continue strengthening my core computer science foundation through:
+In 2027, I plan to go deeper into software development by strengthening my programming, problem-solving, and computer science foundations.
 
-- C and C++ Programming
-- Advanced Problem Solving
-- Data Structures
-- Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating System Fundamentals
-- Computer Networking Fundamentals
-- Competitive Programming
-- Software Architecture
-- Software Design Principles
-- Testing and Debugging
-- Scalable Backend Engineering
+### 💻 Programming
+
+* C
+* C++
+* Programming Logic
+* Problem Solving
+
+### 🧩 Data Structures & Algorithms
+
+* Data Structures
+* Arrays
+* Linked Lists
+* Stack & Queue
+* Trees
+* Graphs
+* Searching
+* Sorting
+* BFS & DFS
+* Algorithmic Problem Solving
+* Dynamic Programming
+
+### 🐍 Python & OOP
+
+* Python
+* Object-Oriented Programming
+* Classes & Objects
+* Inheritance
+* Encapsulation
+* Polymorphism
+
+### 🗄️ Databases
+
+* SQL
+* Relational Database Concepts
+* Database Design
+* Queries
+* Database Management Fundamentals
+
+### 🏗️ Software Engineering
+
+* Clean Code
+* Testing & Debugging
+* Software Design Principles
+* Software Architecture Fundamentals
+* Application Architecture
+* Software Development Life Cycle
+* Building Real Software Projects
 
 ---
 
-## 🤖 Future Direction: Artificial Intelligence and Machine Learning
+# 🤖 Future — AI & Machine Learning
 
-My long-term career direction is to combine software engineering with Artificial Intelligence and Machine Learning.
+After strengthening my software development foundation, I plan to gradually move deeper into **Artificial Intelligence and Machine Learning**.
 
-I plan to build expertise in:
+### 📐 Foundations
 
-- Mathematics for Machine Learning
-- Linear Algebra
-- Probability and Statistics
-- Python for Data Science
-- NumPy
-- Pandas
-- Matplotlib
-- Data Analysis
-- Data Visualization
-- Machine Learning
-- Supervised Learning
-- Unsupervised Learning
-- Reinforcement Learning Fundamentals
-- Feature Engineering
-- Model Evaluation
-- Deep Learning
-- Neural Networks
-- Natural Language Processing
-- Computer Vision
-- Image Processing
-- Object Detection
-- Large Language Models
-- AI-Powered Backend Systems
-- FastAPI Model Deployment
-- Production AI Applications
-- AI/ML Research and Project Development
+* Mathematics for Machine Learning
+* Linear Algebra
+* Probability
+* Statistics
+* Python for Data Science
 
-My goal is to become a Software Engineer capable of building both scalable software systems and intelligent AI-powered products.
+### 📊 Data
+
+* NumPy
+* Pandas
+* Matplotlib
+* Data Processing
+* Data Analysis
+* Data Visualization
+
+### 🧠 Machine Learning
+
+* Machine Learning Fundamentals
+* Supervised Learning
+* Unsupervised Learning
+* Feature Engineering
+* Model Training
+* Model Evaluation
+
+### 🚀 Advanced Future Learning
+
+* Neural Networks
+* Deep Learning
+* PyTorch or TensorFlow
+* Natural Language Processing
+* Computer Vision
+* Large Language Models
+* AI-Powered Applications
+* AI-Powered Backend Systems
+* Model Deployment with FastAPI
+
+My long-term goal is to become a software engineer capable of building both **scalable software systems and intelligent AI-powered products**.
 
 ---
 
 ## 🚀 Career Vision
 
-My goal is to grow into a well-rounded Software Engineer with strong knowledge of:
+My goal is to grow into a well-rounded software engineer capable of designing and building:
 
-- Full Stack Software Engineering
-- Backend Architecture
-- Database Engineering
-- Cloud Deployment
-- Software Design and Architecture
-- Data Structures and Algorithms
-- Artificial Intelligence
-- Machine Learning
-- Intelligent Automation
+* Full Stack Applications
+* Scalable Backend Systems
+* Database-Driven Software
+* SaaS Products
+* Cloud-Ready Applications
+* Data-Driven Systems
+* Intelligent AI-Powered Applications
 
-In the future, I aim to contribute to:
-
-- Scalable web platforms
-- Enterprise software systems
-- SaaS products
-- Cloud-ready applications
-- Data-driven software
-- AI-powered applications
-- Machine learning systems
-- Natural language processing solutions
-- Computer vision applications
-- Intelligent automation platforms
+I want to continue improving through real-world development, strong software engineering fundamentals, and continuous learning.
 
 ---
 
@@ -384,25 +429,27 @@ In the future, I aim to contribute to:
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tahaimage8&theme=tokyonight"
-    alt="Ibtesam Taha GitHub Profile Details"
+    alt="Ibtasam Taha GitHub Profile Details"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tahaimage8&theme=tokyonight"
-    alt="Ibtesam Taha GitHub Statistics"
+    alt="Ibtasam Taha GitHub Statistics"
   />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tahaimage8&theme=tokyonight"
-    alt="Ibtesam Taha Most Used Languages"
-  />
+
+<img
+ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tahaimage8&theme=tokyonight"
+ alt="Ibtasam Taha Most Used Languages"
+/>
+
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Tahaimage8&theme=tokyo-night&hide_border=true"
-    alt="Ibtesam Taha GitHub Contribution Graph"
+    alt="Ibtasam Taha GitHub Contribution Graph"
   />
 </p>
 
@@ -417,18 +464,21 @@ In the future, I aim to contribute to:
       alt="GitHub Profile"
     />
   </a>
+
   <a href="https://www.linkedin.com/in/ibtesam-taha/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Ibtesam%20Taha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Ibtasam%20Taha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn Profile"
     />
   </a>
+
   <a href="mailto:tahaimage8@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-tahaimage8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email Ibtesam Taha"
+      alt="Email Ibtasam Taha"
     />
   </a>
+
   <a href="https://portfolio-ibtesam-taha.vercel.app/">
     <img
       src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"
@@ -446,8 +496,10 @@ In the future, I aim to contribute to:
   />
 </p>
 
-<h3 align="center">Building scalable software today and preparing intelligent systems for tomorrow 🚀</h3>
+<h3 align="center">
+  Building scalable software today and preparing intelligent systems for tomorrow 🚀
+</h3>
 
 <p align="center">
   Thank you for visiting my GitHub profile.
-</p>****
+</p>
