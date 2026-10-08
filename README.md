@@ -449,7 +449,7 @@ I want to continue improving through real-world development, strong software eng
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Tahaimage8&theme=tokyo-night&hide_border=true"
+    src="https://ghchart.rshah.org/7aa2f7/tahaimage8"
     alt="Ibtasam Taha GitHub Contribution Graph"
   />
 </p>
