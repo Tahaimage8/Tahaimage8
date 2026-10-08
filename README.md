@@ -448,10 +448,7 @@ I want to continue improving through real-world development, strong software eng
 </p>
 
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/7aa2f7/tahaimage8"
-    alt="Ibtasam Taha GitHub Contribution Graph"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tahaimage8&theme=tokyonight&hide_border=true" alt="Ibtasam Taha GitHub Streak" />
 </p>
 
 ---
